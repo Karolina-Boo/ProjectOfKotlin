@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompainObjectTest/CompainObjectTest.iml" filepath="$PROJECT_DIR$/CompainObjectTest/CompainObjectTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DelegationPatternTest/DelegationPatternTest.iml" filepath="$PROJECT_DIR$/DelegationPatternTest/DelegationPatternTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DelegationTest/DelegationTest.iml" filepath="$PROJECT_DIR$/DelegationTest/DelegationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumTest/EnumTest.iml" filepath="$PROJECT_DIR$/EnumTest/EnumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryModeTest/FactoryModeTest.iml" filepath="$PROJECT_DIR$/FactoryModeTest/FactoryModeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericTest/GenericTest.iml" filepath="$PROJECT_DIR$/GenericTest/GenericTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HighOrderFunAndLambda/HighOrderFunAndLambda.iml" filepath="$PROJECT_DIR$/HighOrderFunAndLambda/HighOrderFunAndLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceTest/InterfaceTest.iml" filepath="$PROJECT_DIR$/InterfaceTest/InterfaceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectOfJava.iml" filepath="$PROJECT_DIR$/ProjectOfJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProtertyTest/ProtertyTest.iml" filepath="$PROJECT_DIR$/ProtertyTest/ProtertyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lateinitVSbyLazy/lateinitVSbyLazy.iml" filepath="$PROJECT_DIR$/lateinitVSbyLazy/lateinitVSbyLazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volatileTest/volatileTest.iml" filepath="$PROJECT_DIR$/volatileTest/volatileTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volatileTest2/volatileTest2.iml" filepath="$PROJECT_DIR$/volatileTest2/volatileTest2.iml" />
+    </modules>
+  </component>
+</project>
